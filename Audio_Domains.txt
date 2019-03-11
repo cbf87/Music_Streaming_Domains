@@ -1,4 +1,4 @@
-#STREAMINING_AUDIO_DOMAINS
+#STREAMINING_AUDIO
 pandora.com
 iheart.com
 spotify.com
@@ -101,3 +101,21 @@ patari.pk
 qobuz.com
 tomsradio.com
 radical.fm
+jiosaavn.com
+siriusxm.com
+music.stingray.com
+stingray.com
+boxout.fm
+myopusradio.com
+radiofreesarawak.org
+npr.org
+somafm.com
+www.wmmt.orglistentest
+www.ckua.com
+www.ctv.ca
+open.live.bbc.co.uk
+a.files.bbci.co.uk
+radio.disney.com
+www.srtv.ca
+www.gaydarradio.com
+www.radiocaroline.co.uk
